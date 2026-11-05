@@ -198,3 +198,10 @@ python src/customer_segmentation.py
 
 ## 10. Dataset citation
 Hariharan, S. (2025). *Customer Purchase Behavior* (Version 1). Mendeley Data. DOI: 10.17632/xv99b2mtfk.1. Licensed under CC BY 4.0.
+## Outputs
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3b43678b-fe13-4c52-8b6c-dca6c0004ab7" />
+<img width="1913" height="1133" alt="image" src="https://github.com/user-attachments/assets/39d54082-0bb2-410f-a71d-d45503201a55" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e469f249-8fa5-47be-aa67-cdde994909c4" />
+
+
+
