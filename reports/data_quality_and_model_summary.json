@@ -1,0 +1,29 @@
+{
+  "rows_original": 3900,
+  "columns_original": 19,
+  "rows_after_duplicate_removal": 3900,
+  "duplicate_rows_original": 0,
+  "missing_values_original": 0,
+  "missing_values_after_cleaning": 0,
+  "unique_customer_ids": 3900,
+  "selected_numeric_features": [
+    "Age",
+    "Purchase Amount (USD)",
+    "Review Rating",
+    "Previous Purchases"
+  ],
+  "selected_categorical_features": [
+    "Gender",
+    "Category",
+    "Season",
+    "Subscription Status",
+    "Discount Applied",
+    "Promo Code Used",
+    "Payment Method",
+    "Shipping Type",
+    "Frequency of Purchases"
+  ],
+  "selected_k_by_highest_silhouette": 2,
+  "sampled_silhouette_score": 0.1338,
+  "pca_variance_explained_2_components": 0.2514
+}

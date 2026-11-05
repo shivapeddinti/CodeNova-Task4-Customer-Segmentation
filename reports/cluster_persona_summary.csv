@@ -1,0 +1,3 @@
+Cluster,Customers,Avg_Age,Avg_Purchase_USD,Avg_Review_Rating,Avg_Previous_Purchases,Subscription_Rate,Discount_Use_Rate,Promo_Use_Rate,Persona
+0,1677,44.14,59.28,3.74,25.74,62.79,100.0,100.0,Discount and promo-code users
+1,2223,44.01,60.13,3.76,25.06,0.0,0.0,0.0,Customers with no recorded discount or promo-code use
